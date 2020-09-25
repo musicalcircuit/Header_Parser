@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/austinfissinger/Documents/Repos/Header_Parser/main.c
+stdio.h
+-
+random_functions.h
+/Users/austinfissinger/Documents/Repos/Header_Parser/random_functions.h
+
+/Users/austinfissinger/Documents/Repos/Header_Parser/random_functions.h
+
